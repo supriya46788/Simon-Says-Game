@@ -27,4 +27,4 @@ Welcome to the **Simon Says** game, where you can test your memory and concentra
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/supriya46788/PROJECT.git
+   git clone https://github.com/supriya46788/Simon-Says-Game.git
